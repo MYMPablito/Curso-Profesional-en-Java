@@ -23,7 +23,7 @@ public class TiposDeDatos {
 		
 		//Boleanos:
 		
-		//boolean  True; //Valores booleanos, si/no, True/False.
+		boolean  tengoHambre = true; //Valores booleanos, si/no, true/false.
 		
 		//Caracteres:
 		
@@ -44,6 +44,8 @@ public class TiposDeDatos {
 		System.out.println(peso);
 		
 		System.out.println(gravedad);
+		
+		System.out.println(tengoHambre);
 		
 		
 	}
